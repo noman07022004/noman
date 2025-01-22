@@ -1,1 +1,8 @@
-{}
+{
+  "defaultViewMode": "preview",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "-",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "x",
+  "promptDelete": false
+}

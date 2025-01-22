@@ -1,0 +1,1 @@
+- the study of the human race, its culture and society, and its physical development.

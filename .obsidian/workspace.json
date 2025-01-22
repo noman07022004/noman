@@ -4,52 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "71843f55ab80a23b",
+        "id": "76570f9f80b2f1d8",
         "type": "tabs",
         "children": [
           {
-            "id": "4620c9b1f365b9ec",
+            "id": "bea12aa17117506f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-/+/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "a45d50c8c2c62ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "x/templates/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "65535d33b8968b9a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3fbd1433a87d854c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -108,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 281.5
   },
   "right": {
     "id": "d80e5ebe8c1cb2d5",
@@ -124,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "-/ragging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ragging"
             }
           },
           {
@@ -142,11 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "-/ragging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from ragging"
             }
           },
           {
@@ -167,9 +134,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "-/ragging.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of ragging"
             }
           }
         ]
@@ -186,18 +155,38 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true
+      "command-palette:Open command palette": true,
+      "audio-recorder:Start/stop recording": false,
+      "media-extended:Open media": true
     }
   },
-  "active": "3fbd1433a87d854c",
+  "active": "bea12aa17117506f",
   "lastOpenFiles": [
-    "x/templates/Untitled.md",
-    "-/+/Untitled.md",
-    "x/templates",
-    "x",
-    "Welcome.md",
-    "-/+",
-    "-",
-    "desktop.ini"
+    "x/university/mubin 21-1-2025.mp4",
+    "x/university/miad CR 21-1-2025.mp4",
+    "-/ragging.md",
+    "-/+/university.md",
+    "x/university/Screenshot_21-1-2025_135728_www.messenger.com.jpeg",
+    "x/university/Screenshot_21-1-2025_14033_www.messenger.com.jpeg",
+    "x/university/Screenshot_21-1-2025_135857_www.messenger.com.jpeg",
+    "x/university/Screenshot_21-1-2025_1439_www.messenger.com.jpeg",
+    "x/Screenshot_21-1-2025_135728_www.messenger.com.jpeg",
+    "x/Recording 20250121104758.m4a",
+    "x/university",
+    "x/Recording 20250121092804.m4a",
+    "Screenshot_21-1-2025_135728_www.messenger.com.jpeg",
+    "x/ragging.jpeg",
+    "-/bureaucracy.md",
+    "-/anthropology.md",
+    "x/facebook_voice_message_21_Jan_2025_03-43-11.mp4.crdownload",
+    "x/facebook_voice_message_21_Jan_2025_03-44-19.mp4.crdownload",
+    "x/Screenshot_21-1-2025_11151_www.messenger.com.jpeg.crdownload",
+    "-/Ibn Battuta about Slavery in Bengal.md",
+    "-/Aryan Civilization.md",
+    "x/templates/header.md",
+    "x/Recording 20250121094956.m4a",
+    "-/Untitled 1.md",
+    "x/Aryan Civilization/Recording 20250121093718.m4a",
+    "Welcome.md"
   ]
 }
