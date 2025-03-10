@@ -1,1 +1,0 @@
-- **Bureaucracy** is a system of administration characterized by structured processes, hierarchical organization, and formal rules and regulations designed to manage large organizations or governments efficiently.

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76570f9f80b2f1d8",
+        "id": "9402fe636ed8852f",
         "type": "tabs",
         "children": [
           {
-            "id": "bea12aa17117506f",
+            "id": "2babcd10a7ef321d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -67,6 +68,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "953fc3e868aaf9f7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -155,38 +166,48 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "audio-recorder:Start/stop recording": false,
-      "media-extended:Open media": true
+      "command-palette:Open command palette": true
     }
   },
-  "active": "bea12aa17117506f",
+  "active": "2babcd10a7ef321d",
   "lastOpenFiles": [
-    "x/university/mubin 21-1-2025.mp4",
-    "x/university/miad CR 21-1-2025.mp4",
-    "-/ragging.md",
+    "University/21-Day Study Plan/1. Jurisprudence.md",
+    "University/21-Day Study Plan/2. Legal History of Bangladesh.md",
+    "University/21-Day Study Plan/3. Introduction to Liberation War in Bangladesh.md",
+    "University/21-Day Study Plan/4. Communicative English.md",
+    "x/templates/header.md",
+    "-/+/Prompt for Ai.md",
+    "University/Syllabus/0. Academic Curriculum.pdf",
+    "-/Untitled.md",
+    "University/Syllabus/4. Communicative English.md",
+    "University/Books/Sidney Greenbaum The Oxford English Grammar.pdf",
+    "University/Books/George Yule The Study of Language.pdf",
+    "University/Books/Inger_Mewburn _Level_up_Your_Essays.epub",
+    "University/Books/Wayne_Booth_et_al_The_Craft_of_Research.epub",
+    "University/Books/Reading and Making Notes (Pocket Study Skills).pdf",
+    "University/Books/Deborah Capras Small Talk.epub",
+    "University/Books",
+    "University/Syllabus/Communicative English Syllabus.aac",
+    "University/Syllabus/1. Jurisprudence.md",
+    "University/Syllabus/3. Introduction to Liberation War in Bangladesh.md",
+    "University/Syllabus/Jurisprudence.pdf",
+    "University/Syllabus/2. Legal History of Bangladesh.md",
+    "University/20-Day Study Plan/Legal History of Bangladesh v2.md",
+    "University/20-Day Study Plan/Legal History of Bangladesh v3.md",
     "-/+/university.md",
+    "-/anthropology.md",
+    "-/Ibn Battuta about Slavery in Bengal.md",
+    "-/bureaucracy.md",
+    "-/Aryan Civilization.md",
+    "-/ragging.md",
+    "x/university/Screenshot_21-1-2025_135857_www.messenger.com.jpeg",
     "x/university/Screenshot_21-1-2025_135728_www.messenger.com.jpeg",
     "x/university/Screenshot_21-1-2025_14033_www.messenger.com.jpeg",
-    "x/university/Screenshot_21-1-2025_135857_www.messenger.com.jpeg",
     "x/university/Screenshot_21-1-2025_1439_www.messenger.com.jpeg",
     "x/Screenshot_21-1-2025_135728_www.messenger.com.jpeg",
-    "x/Recording 20250121104758.m4a",
-    "x/university",
-    "x/Recording 20250121092804.m4a",
     "Screenshot_21-1-2025_135728_www.messenger.com.jpeg",
     "x/ragging.jpeg",
-    "-/bureaucracy.md",
-    "-/anthropology.md",
-    "x/facebook_voice_message_21_Jan_2025_03-43-11.mp4.crdownload",
-    "x/facebook_voice_message_21_Jan_2025_03-44-19.mp4.crdownload",
-    "x/Screenshot_21-1-2025_11151_www.messenger.com.jpeg.crdownload",
-    "-/Ibn Battuta about Slavery in Bengal.md",
-    "-/Aryan Civilization.md",
-    "x/templates/header.md",
-    "x/Recording 20250121094956.m4a",
     "-/Untitled 1.md",
-    "x/Aryan Civilization/Recording 20250121093718.m4a",
     "Welcome.md"
   ]
 }
