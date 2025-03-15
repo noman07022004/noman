@@ -1,0 +1,121 @@
+- The structure of words
+	- Simple words
+		- Words that can't be divided into smaller meaningful segments are called simple words.
+		- And, the, if, on etc.
+	- Composite words
+		- Words that have recognizable internal structures and can be divided into smaller meaningful segments are called composite words.
+		- Unhappy = un + happy
+		- unwell, uncover, undress, unlock.
+	- Affix
+		- An affix is a part of a word that is added to a base word to change its meaning or grammatical function.
+		- unhappily = un + happy + ly
+		- If the affix comes at the beginning, it is called **prefix**.
+			- unhappy = un + happy
+		- If it comes at the end, it is suffix.
+			- happily = happy + ly
+	- Structure of a complex word![[Structure of a complex word.jpeg]]
+- Sources of new words and meanings
+	- Borrowings and existing resources
+		- A major source of new words in our language, specially in earlier periods, is the acceptance of words from other languages.
+		- perestroika and glasnost from Russian.
+		- bimbo and galleria from Italian
+		- intifada and fatwa from Arabic
+		- Karaoke and futon from Japanese
+		- fromagefrais from French
+		- Yuppie, fax, headhunt, and safe sex from united states' English
+		- wheelie-bin and go walkabout from Australian expressions
+		- Our vocabulary has increased by adding new meanings to existing words or expression
+			- menu for a set of options in a computer program
+			- paste for a computer process of transferring text
+- Main Types of Word-Formation
+	- Present day, English has four main processes that result in the formation of new words.
+	- prefixation
+		- the addition of a prefix in from of a base
+			- pro-life, recycle, deselect
+		- prefixation is class-maintaining in that it retains the word class of the base.
+			- noun choice > noun pro-choice
+			- adjective green > adjective ungreen
+			- verb select > verb deselect
+		- There are exceptions
+			- adjective sure > verb ensure
+			- noun mask > verb unmask
+			- noun friend > verb befriend
+	- suffixation
+		- the addition of a suffix at the end of a base
+			- ageism, marginalize, additive
+		- Suffixation tends to be class-changing.
+			- adjective fat > noun fattism
+			- verb lug > adjective luggable
+			- verb highlight > noun highlighter
+		- there are exceptions
+			- noun martyr > noun martyrdom
+			- noun author > noun authorships
+			- Though there is a shift in subclass from concrete noun to abstract noun
+			- noun host > noun hostess
+			- adjective kind > adjective kindly
+			- adjective economic > adjective economical
+	- compounding
+		- the combination of two or more bases
+			- hands-on, helpline, spin doctor
+			- red-handed
+			- user-friendly
+			- user-friendliness
+			- necklace
+			- reader-friendly/ reader-friendlier/ reader-friendliest
+			- headhunt/ headhunts/ headhunted/ headhunting
+			- marginalize/ marginalizes/ marginalized/ marginalizing
+	- conversion
+		- the change of a base from one word class to another without any change in form
+			- the verbs email, fax, and microwave derive from the nouns of the same form.
+- Combining form
+	- Combining forms are segments that do not occur as separate words in the language and like affixes they are attached before or after another segment to constitute a word.
+	- They are usually neo-classical; that is to say, they are mostly segments originating from Latin and Greek that are used to form words in English
+	- Example of initial combining forms
+		- Anglo
+		- astro
+		- bio
+		- electro
+		- euro
+		- psycho
+		- tele
+	- examples of final combining forms
+		- cide
+		- cracy
+		- gram
+		- graph
+		- logy
+		- phile
+		- phobe
+	- There may be combined with established English words
+		- biochemistry
+		- electromagnetism
+		- psychotherapy
+		- eurosceptic
+		- teleconference
+		- meritocracy
+		- futurology
+		- escapologist
+	- combining forms are a common feature of scientific terminology, particularly in chemistry and pharmacology.
+	- Initial combining forms generally end in a vowel, mostly o. though other vowels are also found,
+		- agriculture
+		- docudrama
+	- when a new initial combining form is created, it tends to end in o. It may be shortened for that purpose from a longer word:
+		- eco from ecology and ecological
+			- ecosystem
+			- ecocentric
+		- Euro from Europe and European
+			- Eurocrat
+			- Eurospeak
+	- If that possibility is not available, the combining vowel o is added to convert the first segment into a combining form
+		- speedometer
+		- futurology
+		- meritocracy
+		- francophone
+	- two combining forms can be joined to form a word
+		- psychology
+		- homophobe
+		- Eurocrat
+		- astronaut
+	- final combining forms regularly combine only with initial combining forms *logo*, requires an initial combining form such as psycho, socio, anthropo, futuro, escapo
+	- pigeoncide is irregular, though intelligible, as would be spacenautin place of astronaut.
+- 
