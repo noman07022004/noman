@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f17ee0d1338a6f8b",
+        "id": "75d18347a36c8ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "6f6299ec50fbc726",
+            "id": "375ae4d0bf184432",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/21-Day Study Plan/4. Communicative English.md",
+                "file": "University/21-Day Study Plan/2. Legal History of Bangladesh.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Communicative English"
+              "title": "2. Legal History of Bangladesh"
             }
           }
         ]
@@ -80,8 +80,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -177,45 +177,45 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "6f6299ec50fbc726",
+  "active": "375ae4d0bf184432",
   "lastOpenFiles": [
     "University/21-Day Study Plan/1. Jurisprudence.md",
     "University/21-Day Study Plan/2. Legal History of Bangladesh.md",
-    "University/21-Day Study Plan/3. Introduction to Liberation War in Bangladesh.md",
-    "-/Judicial System of Medieval India - Mughal Period - comprehensive details.md",
-    "-/Judicial System of Medieval India - Mughal Period.md",
-    "-/Bengal partition-1905.md",
-    "-/Formation of Muslim League in Dhaka and Annulment of Partition.md",
-    "-/Rise of Bengali Nationalism - Bengal Partition 1905 (Part 1).md",
-    "-/Rise of Bengali Nationalism - Bengal Partition 1905 (Part 2).md",
-    "-/Untitled.md",
-    "-/Plato.md",
-    "-/Natural Law - Plato (Part 2).md",
-    "-/Plato and the Concept of Natural Law.md",
-    "-/Natural Law - Plato (Part 1).md",
-    "-/Sophists.md",
     "University/21-Day Study Plan/4. Communicative English.md",
-    "-/Judicial System of Medieval India - Sultanate Period.md",
+    "University/21-Day Study Plan/3. Introduction to Liberation War in Bangladesh.md",
+    "-/St. Thomas Aquinas.md",
+    "-/St. Thomas Aquinas (Part 2).md",
+    "-/St. Thomas Aquinas (Part 1).md",
+    "-/Subject-verb agreement.md",
+    "-/Clause.md",
+    "-/Agartala Conspiracy Case 1969.md",
+    "-/6-Point Movement.md",
+    "-/Administration of Justice - Calcutta (1690-1726).md",
+    "-/Administration of Justice - Madras (1639-1726).md",
+    "-/Natural Law - Stoics.md",
+    "-/Natural Law - Aristotle (Part 2).md",
+    "-/Natural Law - Aristotle (Part 1).md",
+    "-/Natural Law - Plato (Part 2).md",
+    "-/Natural Law - Plato (Part 1).md",
+    "-/Aristotle.md",
+    "-/Early Charters- Charter of 1661, Surat Factory.md",
+    "-/Charter of 1661.md",
+    "-/Surat Factory.md",
+    "-/1952 Language Movement.md",
+    "-/Creation of West and East Pakistan.md",
+    "-/Lahore Resolution.md",
+    "-/Creation of West and East Pakistan, 1952 Language Movement.md",
     "University/Books/Sidney Greenbaum The Oxford English Grammar.pdf",
-    "-/Word Formation.md",
     "University/X/Structure of a complex word.jpeg",
     "University/X/Screenshot_12-3-2025_5570_.jpeg.crdownload",
     "University/X",
     "University/images",
     "University/New folder",
-    "-/+/Prompt for Ai.md",
-    "-/Judicial System of Ancient India - Hindu Period.md",
-    "University/Syllabus/2. Legal History of Bangladesh.md",
-    "x/templates/header.md",
     "University/Syllabus/0. Academic Curriculum.pdf",
-    "University/Syllabus/4. Communicative English.md",
     "University/Books/George Yule The Study of Language.pdf",
     "University/Books/Inger_Mewburn _Level_up_Your_Essays.epub",
     "University/Books/Wayne_Booth_et_al_The_Craft_of_Research.epub",
     "University/Books/Reading and Making Notes (Pocket Study Skills).pdf",
-    "University/Syllabus/1. Jurisprudence.md",
-    "University/Syllabus/3. Introduction to Liberation War in Bangladesh.md",
-    "University/20-Day Study Plan/Legal History of Bangladesh v2.md",
     "x/university/Screenshot_21-1-2025_135857_www.messenger.com.jpeg",
     "x/university/Screenshot_21-1-2025_135728_www.messenger.com.jpeg",
     "x/university/Screenshot_21-1-2025_14033_www.messenger.com.jpeg",
