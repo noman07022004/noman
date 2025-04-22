@@ -7,20 +7,20 @@
 	1. [[George Yule The Study of Language.pdf]]
 		1. chapter 3
 		2. chapter 4
-3. Subject-verb agreement, Clause
-4. [[Listening]]:
+3. Subject-verb agreement, Clause, Transformation of sentence.
+4. [[Listening]]: (No need)
 	1. Difference between Listening and hearing
 	2. Definition of Listening
 	3. Extracting specific information from listening
-5. Speaking: 
+5. [[Speaking]]: 
 	1. [[Deborah Capras Small Talk.epub]]
-		1. Introduction
+		1. Introduction 
 			1. what is small talk
 			2. why we do small talk
 		2. Part 3
-			1. Communication Strategies
-6. Reading: 
-	2. [[Reading and Making Notes (Pocket Study Skills).pdf]] 
+			1. [[Communication Strategies]]
+6. Reading: (2 questions)
+	1. [[Reading and Making Notes (Pocket Study Skills).pdf]] 
 		1. Note Making Not necessary for exam
 		2. Reading(part 1 -4) For Exam
 7. Writing: 
@@ -28,7 +28,9 @@
 		1. chapter 3
 		2. chapter 5
 			1. 5.1 - 5.6
+		3. part 4(For serious)
 	2. [[Inger_Mewburn _Level_up_Your_Essays.epub]]
 		1. Chapter 3
+			1. How to write body paragraph
 		2. Chapter 4
 			1. 4.5

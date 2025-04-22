@@ -119,9 +119,3 @@ These different jurisprudential philosophies continue to exert a significant inf
 |Law as Interpretation|Dworkin|Law as integrity; importance of principles and interpretation in legal reasoning.|
 |Sociology and Law|Weber, Marx|Law analyzed in its social context; Weber's focus on legal rationalization; Marx's critique of law as a tool of class oppression.|
 |Critical Legal Studies|CLS Scholars, Feminist|Law is indeterminate and political; critiques traditional legal doctrines and their role in perpetuating inequality; feminist analysis of law.|
-
-Export to Sheets
-
-Sources used in the report
-
-[](https://corporatefinanceinstitute.com/resources/esg/natural-law/)
