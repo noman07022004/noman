@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3a32e69a1d0da1be",
+        "id": "1defa0cdae6a255a",
         "type": "tabs",
         "children": [
           {
-            "id": "7bbd88ee7cd8954b",
+            "id": "217a2b667693d2ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/-/English.md",
+                "file": "2. YouTube/Grudge Informer Case/short/Grudge Informer Case.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English"
+              "title": "Grudge Informer Case"
             }
           }
         ]
@@ -80,15 +80,15 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 201.5
   },
   "right": {
     "id": "d80e5ebe8c1cb2d5",
@@ -174,48 +174,49 @@
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7bbd88ee7cd8954b",
+  "active": "217a2b667693d2ce",
   "lastOpenFiles": [
-    "University/-/Jurisprudence Suggestions.md",
-    "University/-/Jurisprudence 2.md",
-    "University/-/Jurisprudence 1.md",
-    "-/Hans Kelsen.md",
-    "-/Ronald Dworkin.md",
-    "University/-/English.md",
-    "-/Listening.md",
-    "University/-/Liberation War suggestion.md",
-    "University/-/Liberation War.md",
-    "University/-/Legal History 1.md",
-    "-/4.md",
-    "University/-/Legal History 2.md",
-    "University/-/Legal History.md",
-    "University/-/Legal History Suggestion.md",
-    "University/-/Liberation War 2.md",
-    "University/Syllabus/2. Legal History of Bangladesh.md",
-    "-/Clause.md",
-    "-/Subject-verb agreement.md",
-    "-/H.L.A. Hart.md",
+    "2. YouTube/Grudge Informer Case/short/Even Short Version.md",
+    "2. YouTube/Grudge Informer Case/short/Grudge Informer Case.md",
+    "2. YouTube/Grudge Informer Case/short/Untitled.md",
+    "2. YouTube/Grudge Informer Case/short/with voice direction.md",
+    "2. YouTube/Grudge Informer Case/short/Untitled 1.md",
+    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 44.md",
+    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 43.md",
+    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 43.md",
+    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 42.md",
+    "x/Trash/chapter 4 v1.md",
+    "x/Trash/chapter 3 v2.md",
+    "x/Trash/chapter 3 v1.md",
+    "x/Trash/chapter 2 v2.md",
+    "x/Trash/chapter 2 v1.md",
+    "x/Trash/chapter 1 v2.md",
+    "x/Trash/chapter 1 v1.md",
+    "x/Trash/chapter 9 v2.md",
+    "x/Trash/chapter 9 v1.md",
+    "x/Trash/chapter 8 v2.md",
+    "x/Trash/chapter 8 v1.md",
+    "x/Trash/chapter 7 v2.md",
+    "x/Trash/chapter 7 v1.md",
+    "x/Trash/chapter 6 v2.md",
+    "x/Trash/chapter 6 v1.md",
+    "x/Trash/chapter 5 v2.md",
+    "x/Trash/chapter 5 v1.md",
+    "x/Trash",
+    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited",
+    "1. Reverend Half Insanity/1. Base Version/1. Raw",
+    "1. Reverend Half Insanity/1. Base Version",
+    "2. YouTube/Grudge Informer Case/short",
+    "2. YouTube/Grudge Informer Case/long",
+    "2. YouTube/Grudge Informer Case",
+    "3. University",
+    "1. Reverend Half Insanity",
+    "2. YouTube",
     "University/x/Structure of a complex word.jpeg",
-    "-/Word Formation.md",
-    "University/21-Day Study Plan/4. Communicative English.md",
-    "University/Syllabus/3. Introduction to Liberation War in Bangladesh.md",
-    "University/Syllabus/1. Jurisprudence.md",
-    "University/-",
-    "University/Syllabus/Jurisprudence.pdf",
-    "University/21-Day Study Plan/1. Jurisprudence.md",
-    "-/Natural Law - Plato (Part 1).md",
-    "-/Sophists.md",
-    "University/Syllabus/0. Academic Curriculum.pdf",
-    "University/Books/Sidney Greenbaum The Oxford English Grammar.pdf",
-    "University/X/Screenshot_12-3-2025_5570_.jpeg.crdownload",
-    "University/x",
-    "University/images",
-    "University/New folder",
-    "University/Books/George Yule The Study of Language.pdf",
-    "University/Books/Inger_Mewburn _Level_up_Your_Essays.epub",
     "x/university/Screenshot_21-1-2025_135857_www.messenger.com.jpeg",
     "x/university/Screenshot_21-1-2025_135728_www.messenger.com.jpeg",
     "x/university/Screenshot_21-1-2025_14033_www.messenger.com.jpeg",

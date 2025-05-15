@@ -1,0 +1,41 @@
+After some time, the elder shouts, his voice ringing out across the courtyard, _"Everyone, get ready! We are being late! All the elders are waiting for us in the pavilion!"_ He gestures towards the entrance, his voice echoing with anticipation.
+
+He leads the young teenagers into the pavilion, a grand structure filled with the murmurs of the waiting crowd. However, they do not go up to the main hall. Instead, after passing through the grand entrance, they are led downstairs, following a carefully constructed stone ladder that descends into the earth. The air grows cooler with each step, carrying the faint scent of damp earth and something sweet, something floral.
+
+They emerge into an underground cave, a place of breathtaking, unexpected beauty. It is a hidden world, bathed in a soft, ethereal light. A small river flows gently through the cave, its surface reflecting the shimmering radiance. The riverbanks are an explosion of color – flowers of all hues bloom here in abundance, their delicate petals creating a magical pathway that winds through the cavern. The walls and the very floor of the cave are covered with bright, colorful stones that shine like countless small pieces of treasure, embedded in the rock itself. The light in the cave, seemingly emanating from the stones, makes the water sparkle and shimmer, creating a truly magical and otherworldly scene, unlike anything the youths have ever witnessed.
+
+All the youths become utterly astonished seeing this hidden beauty. Their earlier nervousness and excitement momentarily forgotten, they begin to chat quietly amongst themselves, their voices filled with awe and amazement, the sounds echoing softly in the magical underground space.
+
+Fang Sianer observes everything with wide, astonished, and deeply curious eyes. A sudden burst of excitement escapes her lips as she sees something remarkable in the water. _"Look! My love!"_ she shouts, tugging on Fang Yuan's hand. _"Fishes are dancing in the river, right there with the colorful flowers!"_ Fang Yuan and Yao Le look where she is pointing and also become astonished, seeing the small, vibrant fishes darting and weaving among the submerged blossoms.
+
+Then, the clan elder, standing by the riverbank, shouts the first name, his voice cutting through the awed whispers. Hearing his name, the designated youth steps forward and into the river of flowers. The river is wide, spanning the width of the cave, but not deep, the water only reaching up to the youth's kneecaps. As he steps in, he visibly feels an invisible pressure, a subtle resistance, as if there is a wall in front of him that he cannot see, blocking him from walking forward. During this moment, the flowers at his feet suddenly give off a weak, soft white light, the radiance gathering around him and seemingly entering his body. For a moment, he feels the pressure drop, the invisible wall blocking him suddenly feeling softer, more yielding. He tries to force himself to walk further, pushing against the unseen force, but after taking a total of three steps, he can go no further.
+
+The elder sighs a deep sigh, a hint of disappointment in his voice, and shouts, _"Only three steps… no talent to become a Gu Master."_ He gestures for the youth to return to the bank and then shouts the next name.
+
+The next boy steps forward, his face a mask of grim determination. He begins walking into the river of flowers, forcing himself as hard as he can, straining against the invisible pressure. He takes step after step, his muscles bulging with effort, but after taking nine steps, he can walk no further. Seeing this, the elder sighs again and shouts, _"Only nine steps… no talent for cultivation."_
+
+Seeing the disappointment on the faces of the two youths who awakened no talent, Fang Yuan steps forward, his heart filled with empathy. He walks towards them, his voice kind and encouraging. _"Don't be sad!"_ he says, his voice carrying a message of hope. _"Talent isn't everything! Even without innate talent, you can achieve greatness and become strong! And remember, you can increase your talent by many means, there are herbs and treasures that can help!"_
+
+Other youths, touched by Fang Yuan's words, also offer words of encouragement. Those who awakened no talent look at Fang Yuan, their expressions reflecting a flicker of hope in their eyes. _"Thank you, Messenger of Love,"_ they say, their voices filled with gratitude for his kindness. _"I… I am feeling much better."_
+
+The process continues. Some youths step into the river and take ten to nineteen steps, earning them D-grade talent. Others manage to take twenty to twenty-nine steps, their efforts resulting in C-grade talent.
+
+Then, the elder shouts, _"Shen Cui!"_ Shen Cui’s face pales slightly, her nervousness evident, but Fang Zheng quickly takes her hand, his gaze steady and reassuring. _"Don't worry, Shen Cui!"_ he says, his voice filled with confidence. _"I know you will do wonderfully! I know you will do better!"_
+
+_"Thank you, Young Master,"_ Shen Cui responds nervously, squeezing his hand, a flicker of hope in her eyes. She has seen many awakened with no talent, and the fear of disappointing Fang Zheng weighs heavily on her. _"I hope… I hope I don't disappoint you, Young Master."_
+
+She walks towards the opposite bank of the river, her steps hesitant at first, then gaining confidence. To everyone's surprise, she takes step after step, her movements graceful despite the pressure. She reaches thirty-seven steps, a clear indication of B-grade talent. A ripple of excitement goes through the crowd.
+
+Fang Zheng looks genuinely happy, his face breaking into a wide grin. After the verification, Shen Cui rushes back towards Fang Zheng, her eyes shining with relief and joy, eager to share her success with him, eager to show him that she hasn't disappointed him. Fang Yuan, along with others, also offers her heartfelt congratulations, their voices filled with admiration. Now, she looks confident, her posture straighter, as if she has finally found a proper ground to stand alongside her loved one, Fang Zheng.
+
+After some time, Fang Zheng's turn comes. He steps into the river of flowers, his face calm and determined. He walks steadily, pushing against the invisible pressure with remarkable ease. He takes step after step, surpassing those who came before him. He reaches forty-three steps, a powerful indication of A-grade talent, the highest level of talent awakened so far. Everyone in the cave erupts in applause, congratulating him on his impressive achievement.
+
+At the elders' table, Fang Ma sits, her face radiating pure, unadulterated happiness. For a moment, all her worries seem to have vanished, replaced by a mother's genuine joy and pride as she smiles warmly at her children.
+
+Then, Yao Le's turn comes. She steps into the river, her movements graceful. She takes thirty-five steps, indicating B-grade talent. When she returns to the group, a slight disappointment clouds her expression, although she is not overly sad. _"I might have disappointed you,"_ she says softly to Fang Yuan, her gaze downcast.
+
+Fang Yuan immediately steps closer, his voice gentle and reassuring. _"Yao Le, you have done really well!"_ he says, his smile warm. _"A B-grade talent is wonderful! And besides, it's not something we can truly control, is it? What matters is your effort and determination."_ He pauses, his eyes filled with admiration. _"And when you were walking through the river of flowers, with all the shiny flowers glowing around you… you looked really beautiful. Like a fairy angel walking through a magical garden."_
+
+Fang Sianer, her eyes wide with agreement, nods vigorously. _"Yes!"_ she shouts. _"You really looked like an angel who was walking on heaven!"_
+
+Yao Le feels a deep blush creep up her neck and spread across her cheeks. Their sincere compliments, delivered with such genuine warmth, touch her heart. She smiles shyly, her earlier disappointment fading, and whispers, _"Thank you… both of you."_

@@ -1,0 +1,39 @@
+From the crowd, Gu Yue Dong Tu and his wife, Dong Mi, step forward, their expressions somber. _"My brother and his wife were brave fighters,"_ Dong Tu declares, his voice resonating with forced solemnity. _"They sacrificed themselves for our clan, and we will never forget that."_
+
+A chorus of voices rises from the crowd, echoing his words. _"They were great! They were great! And we will never forget their sacrifice! We will never forget their sacrifice!"_
+
+Fang Yuan stands like a statue, his small body frozen in shock. Behind him, the servants sob uncontrollably, clutching the two younger children tightly. Understanding the heartbreaking reality of the scene, they quickly turn and rush back inside the mansion, shielding Fang Zheng and Fang Sianer from the horrific sight.
+
+The Clan Leader, Gu Yue Bo, moves forward, his face grave. _"They were truly great,"_ he announces, his voice filled with a solemn respect. _"And so, we will bury them with the highest honor."_
+
+The crowd responds with a unified cry. _"We will bury them with the highest respect! We will bury them with the highest respect!"_
+
+The Clan Leader continues, his gaze sweeping over the crowd. _"They are the heroes of our clan, and we cannot allow their children to feel that they have lost their parents without support. Therefore…"_ He turns his gaze towards Dong Tu and Dong Mi. _"Dong Tu and Dong Mi, you are their closest relatives. It is your responsibility to take care of them as if they were your own children."_
+
+Dong Tu steps forward, a look of feigned sorrow on his face. _"We will take care of my brother's children,"_ he declares. _"We will never let them feel that they have lost their mother."_
+
+The Clan Leader nods in approval. _"We will bury them at the backyard of this mansion,"_ he announces, his voice firm. _"And we will create a tomb in their respect, a lasting testament to their bravery."_
+
+At that moment, a servant approaches Gu Yue Bo, bowing respectfully. _"Esteemed Clan Leader, everything is prepared at the backyard. We can take them there to be buried."_
+
+Suddenly, a **soft, golden light** emanates from Fang Ma's body. A collective gasp rises from the crowd as they witness a miracle unfolding before their very eyes. The deep scars and broken bones on her body begin to heal at an astonishing rate, the wounds closing, the flesh knitting back together. Within moments, she lies completely healed, the blood still clinging to her skin, but her injuries vanished as if they had never been.
+
+Then, with a sudden intake of breath, Fang Ma's eyes flutter open. She looks around, her gaze filled with utter confusion. Seeing his mother awake and unharmed, Fang Yuan lets out a choked cry and leaps forward, throwing his small arms around her, burying his face in her bloodied robes, his body wracked with sobs of relief. The Clan Leader, Gu Yue Bo, and Gu Yue Dong Tu stare with wide, disbelieving eyes, their faces mirroring the shock of the crowd.
+
+Fang Ma looks around, her brow furrowed in bewilderment. _"What is going on?"_ she murmurs, her voice weak but clear. _"Where am I?"_ Her gaze falls upon the small boy clinging to her, and a flood of memories, fragmented and disoriented, washes over her. _"What… this is Fang Yuan!"_ With a confused gaze, she looks around, and when her eyes land on the still form of Fang Fu, a torrent of memories rushes through her mind – joy, love, and then the horrifying images of the battle, culminating in a wave of sorrow so profound that tears automatically stream down her face.
+
+One week passes in a blur of whispered conversations and lingering disbelief. It is now night, and Fang Ma lies on their bed, the events of the past week replaying in her mind. On one side, nestled against her, sleeps Fang Yuan, his small hand clutching hers. On the other side lies Fang Zheng, his soft breaths filling the quiet room. And lying gently across her chest, fast asleep, is little Fang Sianer.
+
+She ponders, her gaze fixed on the ceiling, now understanding the impossible. _"Now, everything is clear."_ A wave of realization washes over her. _"I have reincarnated into that notorious novel that I had read a very long time ago, the one I abandoned because the protagonist was too ruthless and cruel."_ A shiver runs down her spine. _"I hadn't even read five percent of the total novel; I couldn't stomach the violence."_ A bitter smile touches her lips. _"If I could have chosen, I would never have reincarnated into this novel, not at any cost. But what can I do?"_ During the past seven days, she has meticulously pieced together the fragmented memories and the reality around her, and all signs point to the undeniable truth: she is trapped within the pages of that cursed novel, the very one that had destroyed its author's career.
+
+Her gaze softens as she looks at Fang Yuan, sleeping peacefully on her hand. _"This cute little boy,"_ she thinks, a pang of sadness in her heart, _"he will become the future cruel villain."_ She recalls snippets of articles and fan theories she had read about Fang Yuan, the attempts to justify his ruthlessness. _"It was said that after his parents died, he faced the cruelty of his aunt and uncle. And when it was revealed that his little brother was talented while he was talentless, everyone, including his twin brother, aunt, and uncle, marginalized him. He worked hard but received no resources, his inheritance stolen by his scheming uncle, who favored Fang Zheng. Eventually, he was expelled from the clan, forced to navigate a cruel world filled with betrayal. To survive, he learned to use everyone as a tool, to never love or trust, as those would be weaknesses. He rose to power through unethical and evil methods."_
+
+She looks at Fang Yuan, her heart aching with a newfound understanding. _"Even though I don't know much about the novel and have forgotten most of the plot, I am sure that you became evil because of a lack of love and trust in your early years."_ A wave of sorrow washes over her as she remembers her own past. _"I was also heartbroken before my death; my six-month-old child died from a fatal disease."_ A flicker of hope ignites within her. _"Maybe this is best for both of us. I will give you the love that you never received, and I will find warmth and solace in your presence. You are my child now, in this life, and perhaps in this way, I can forget my pain, and you can find a different path."_
+
+Her gaze shifts to Fang Zheng, sleeping soundly beside his brother. _"In the novel, Fang Zheng was always righteous. But don't worry, my sweet boy,"_ she thinks, her affection encompassing both her sons, _"you are also my child from now on."_
+
+Finally, she looks at the tiny form of Fang Sianer lying gently on her chest. _"Oh,"_ she muses, a thoughtful expression on her face, _"as far as I remember, Fang Yuan and Fang Zheng were twins. You weren't in the novel. Maybe you are proof that I can change the story. Maybe this change has occurred for me."_ A genuine smile spreads across her face. _"But it doesn't matter. I am truly happy about my new family."_
+
+She gently kisses Fang Yuan's forehead, then Fang Zheng's, and finally, she presses a tender kiss to Fang Sianer's soft head. _"I will be a worthy mother to all of you,"_ she vows silently, her heart filled with a fierce protectiveness. _"Even though the road ahead won't be easy, and just taking care of all of you may be tiring, I will do it. I promise."_
+
+A profound sense of peace settles over her, and she drifts off to sleep, a soft smile gracing her lips. Fang Yuan sleeps soundly on her one hand, his head resting on her palm, his small arm wrapped around her. On her other side, Fang Zheng mirrors his brother's peaceful slumber. And on top of her, little Fang Sianer sleeps soundly, a picture of innocent tranquility. It is a truly peaceful and heartwarming scene.

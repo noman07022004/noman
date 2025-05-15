@@ -1,9 +1,10 @@
 {
   "defaultViewMode": "preview",
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "-",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "x",
+  "attachmentFolderPath": "./attachments",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "trashOption": "local"
 }

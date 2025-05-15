@@ -1,0 +1,2 @@
+- Don't trust too much. Don't love too much. Don't hope too much. Because that too much can hurt you so much.
+- 
