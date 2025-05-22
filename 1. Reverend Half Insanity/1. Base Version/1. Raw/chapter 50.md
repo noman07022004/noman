@@ -1,0 +1,1 @@
+The next day, Fang Yuan has become almost normal except the fact that there is deep mark in his face that resembles what is his actual condition.

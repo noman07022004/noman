@@ -1,0 +1,31 @@
+Another two weeks later, the sun is warm on their faces as Fang Sianer and Yao Le walk home from the academy. The past fortnight has been a blur of new lessons, new faces, but the weight of worry for Fang Yuan has never truly lifted.
+
+_"Mama has still not given up,"_ Fang Sianer says, her voice quiet, a mixture of admiration and concern for her mother etched on her face. _"She keeps trying, even though it's dangerous. She says she is understanding Brother's martial core more and more, little by little."_
+
+Yao Le nods, her own worry for Fang Yuan visible in her eyes. _"Aunt Fang Ma is really determined,"_ she replies, her voice filled with respect for Fang Ma's unwavering love and effort.
+
+Fang Sianer stops walking, turning to face Yao Le, her expression earnest. _"Yao Le,"_ she says, her voice filled with a quiet resolve. _"I… I want to try something. Mama won't let me try channeling my martial essence to My Brother's martial core. She says it's too dangerous. But… but I want to try at least one time."_ She hesitates, her gaze searching Yao Le's face. _"Our academy elders have taught us so much already, haven't us? About how to channel martial essence throughout our bodies, about controlling it with our will."_ A determined light enters her eyes. _"I think… I think I will be able to channel my martial essence into another person too. It's the same principle, isn't it? Extending your will, guiding the essence."_
+
+She reaches out, gently taking Yao Le's hands, her voice filled with trust. _"But I don't want to make my brother's condition any worse, I don't want to put him at risk without knowing I can do it properly. So, can you… can you help me practice channeling martial essence into someone else? I know the elders told us that if we channel our martial essence into someone else's martial core, it can pollute them. But I promise,"_ she says, her voice firm, _"I will not channel it to your martial core, Yao Le. I will just channel it into your body, like practicing a healing touch. Will you help me?"_
+
+Yao Le’s eyes brighten up instantly, her face breaking into a smile. _"Yes, of course, I will!"_ she shouts, her voice filled with eagerness. _"Oh, Sianer, I was also planning to tell you that, to ask you to help me practice, but I was afraid you'd say no, or that Aunt Fang Ma wouldn't allow it since she sent me back to my house."_ Her expression turns serious for a moment. _"And don't worry about the pollution, Sianer. I think you might have forgotten what the elders taught us about that. Over time, the pollution is automatically removed as we use our martial essence. The more we use it, the more quickly the pollution is removed. And it isn't even a big issue, especially if we are the same rank, which we are. The elders said that if a higher rank martial essence is injected into a lower rank, it takes much more time to clean up, but for the same rank… it's temporary."_ She looks at Fang Sianer, her eyes filled with unwavering loyalty. _"Besides, Sianer, I don't mind my martial essence being polluted for brother Fang Yuan's sake. Not at all."_
+
+Fang Sianer’s eyes well up with tears, overwhelmed by Yao Le's immediate and selfless agreement. She embraces Yao Le tightly right there on the road, holding her close. _"Oh, Yao Le,"_ she says, her voice thick with emotion, _"I am really, really grateful to you. You are such a good friend. I am so happy having such a friend like you."_
+
+Yao Le, feeling a little shy at the sudden embrace, hugs her back. _"What are you doing, silly!"_ she says softly, laughing a little. _"We are friends, aren't we? Of course, I want to help! And I also want brother Fang Yuan to be fine soon, and I want to check his condition myself."_ She pulls back slightly, her face serious again. _"So, when are we going to practice? We should do it soon, right?"_
+
+Fang Sianer’s face brightens with excitement. _"You know,"_ she says, a mischievous glint in her eyes, _"I also have a beautiful personal room at the mansion now, but I actually haven't even slept there for a single day since… since Brother's ceremony. How about you stay at our house today? We will start practicing just after going back to our house and after finishing lunch."_
+
+Yao Le’s eyes light up. _"That is a good idea!"_ she agrees readily. _"Let's go to your house then! And Grandma gave me this communication martial artifact,"_ she says, pulling a small, intricately carved stone from her pocket. _"I will tell my grandma through this that I'm staying at your place."_
+
+Fang Sianer smiles, putting her own hand in her pocket and pulling out a similar looking artifact. _"Look,"_ she says, _"I also have one. Mama has given me one too. They are very useful."_
+
+Yao Le says, a hint of wistfulness in her voice, _"It would have been good if we could store those martial artifacts inside our martial core, just like we can store martial parasites. It would be so much more convenient."_
+
+Fang Sianer, recalling a recent lesson, explains, _"The elders told us why we can't do that easily. The raw energy inside the martial core makes the martial artifacts stop working properly, and sometimes they even get destroyed or corroded within a short period if we just place them there directly. The elders did mention that we can place them in our martial core through many processes, and one of the most popular is to use any storage type martial parasite and then put the martial artifacts in it, and then put the martial parasite in your martial core. But we haven't learned that technique yet."_
+
+Yao Le responds, impressed by Fang Sianer’s memory. _"Wow, Sianer, you really were attentive at the time of the lecture! I almost forgot about that; it was just theory, and those lessons were given around two weeks ago at our very first lecture. Okay, now let's go home quickly! I want to start practicing!"_
+
+Fang Sianer responds, her eyes filled with shared determination, _"Okay, let's go!"_
+
+Then, holding each other's hand, their determination shining brightly in their eyes, they rush towards home quickly, their steps lightened by a newfound purpose and the strength of their friendship.

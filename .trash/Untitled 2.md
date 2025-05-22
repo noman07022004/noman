@@ -1,0 +1,21 @@
+They move towards the bed, their steps quiet. They kneel on either side of Fang Yuan, their faces now solemn, mirroring the gravity of the task they are about to undertake. Fang Sianer gently takes one of Fang Yuan's hands, her fingers intertwining with his. Yao Le takes the other hand, her grip firm and steady.
+
+They close their eyes, taking deep, centering breaths, focusing their minds. They recall the elder's lessons, the pathways of martial essence within their own bodies, the technique of channeling. But now, they must direct that flow outwards, into another person, into Fang Yuan, into the unknown that lies within his heart.
+
+Fang Sianer’s brow furrows in concentration, her lips moving slightly as she whispers, **_"For my love… for my brother… please, let this work."_**
+
+Yao Le’s expression is equally determined, her thoughts a silent echo, **_"For Brother Fang Yuan… for Sianer… please, let us help."_**
+
+They begin to channel their martial essence. From deep within their newly awakened martial cores – Fang Sianer's radiating a transparent white glow, Yao Le's a transparent green – threads of pure, vibrant energy begin to flow, down their arms, through their hands, and into Fang Yuan's body.
+
+As their essence enters him, they feel a strange sensation. It's not like channeling into each other, which felt like a familiar flow. Channeling into Fang Yuan is like sending their essence into a void, a chilling emptiness that seems to draw their energy in. But there is also something else, a subtle resistance, a hidden power within that black core that is neither light nor dark, but something entirely different, something they cannot comprehend.
+
+Fang Sianer feels a connection to that shadowy black core, a pull that is both terrifying and compelling. It is like touching the edge of an abyss, but an abyss that is strangely familiar, strangely _his_. Her transparent white essence flows towards it, and for a horrifying moment, she feels a faint echo of the consuming sensation her mother described, but it is muted, softened, perhaps by her own less potent essence, or perhaps by something else entirely.
+
+Yao Le feels her transparent green essence flow into him, a wave of warmth and healing energy. She directs it towards his body, trying to soothe the unseen damage, the lingering trauma. As it nears his heart, as it brushes against the edge of that black core, she feels a chilling coldness, a sense of profound despair, a brief, overwhelming wave of sorrow that is not her own. It is a horrifying glimpse into the darkness that has engulfed him.
+
+As their essences interact with Fang Yuan, subtle changes begin to occur. The small, dark area around Fang Yuan, the void that had swallowed the hope martial parasites, seems to flicker. Threads of transparent white and green light, faint but persistent, weave into the edges of the blackness, pushing back, albeit slowly. The air in the room seems to grow heavy, charged with unseen energy.
+
+On the bed, Fang Yuan stirs slightly. His breathing deepens, becoming more even. A faint tremor runs through his body, different from the violent shaking of before, more like a tremor of sensation, of awareness returning. A soft groan escapes his lips, the first sound he has made in days that isn't purely instinctive.
+
+Fang Sianer and Yao Le continue to channel their essence, their faces set in grim determination, their love for Fang Yuan fueling their efforts. They don't know what they are doing, not truly. They don't know if they are helping him or causing more harm. They only know that they cannot stand by and do nothing. They are risking everything, their own martial paths, their own safety, to reach him, to pull him back from the darkness that has claimed him. The outcome is uncertain, the danger immense, but in their hearts, there is only the unwavering belief that their love, their combined essence, might just be the light he needs to find his way back. The night deepens, the air thick with the silent struggle for a soul.

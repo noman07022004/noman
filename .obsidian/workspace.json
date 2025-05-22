@@ -4,21 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "1defa0cdae6a255a",
+        "id": "c7eefbf2320aee72",
         "type": "tabs",
+        "dimension": 61.96746707978311,
         "children": [
           {
-            "id": "217a2b667693d2ce",
+            "id": "8276ea50bb0e874d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. YouTube/Grudge Informer Case/short/Grudge Informer Case.md",
-                "mode": "preview",
-                "source": false
+                "file": "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 50.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Grudge Informer Case"
+              "title": "chapter 50"
+            }
+          },
+          {
+            "id": "4bd5cdebcbeb769b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 49.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter 49"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cd29d168707c607e",
+        "type": "tabs",
+        "dimension": 38.03253292021689,
+        "children": [
+          {
+            "id": "6a484c96e28272db",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://translate.google.com/?sl=bn&tl=en&text=%E0%A6%9B%E0%A6%BE%E0%A6%AA%20&op=translate",
+                "title": "Google Translate",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google Translate"
+            }
+          },
+          {
+            "id": "d2fac6bb0eacdf23",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/c/6827d6ce-ab94-8004-b865-574adebf1099",
+                "title": "chatgpt.com/c/6827d6ce-ab94-8004-b865-574adebf1099",
+                "mode": "error"
+              },
+              "icon": "globe-2",
+              "title": "chatgpt.com/c/6827d6ce-ab94-8004-b865-574adebf1099"
             }
           }
         ]
@@ -169,6 +221,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
@@ -178,44 +231,43 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b06e1b7883a251e2",
+  "active": "6a484c96e28272db",
   "lastOpenFiles": [
+    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 50.md",
+    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 49.md",
+    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 49.md",
+    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 48.md",
+    "1. Reverend Half Insanity/1. Base Version/1. Raw/Untitled 1.md",
+    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 48.md",
+    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 47.md",
     "2. YouTube/Grudge Informer Case/short/Grudge Informer Case.md",
+    "2. YouTube/Grudge Informer Case/short/Grudge Informer Case with audio.md",
+    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 47.md",
+    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 46.md",
+    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 46.md",
+    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 45.md",
+    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 45.md",
+    "Untitled.md",
+    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 44.md",
+    "x/Quotes.md",
+    "attachments/Recording 20250516172436.m4a",
+    "attachments",
+    "2. YouTube/Grudge Informer Case/short/attachments/Recording 20250516172419.m4a",
+    "2. YouTube/Grudge Informer Case/short/attachments/Recording 20250516080130.m4a",
+    "2. YouTube/Grudge Informer Case/short/attachments/Grudge Informer 002.m4a",
+    "2. YouTube/Grudge Informer Case/short/attachments/Grudge Informer 009.m4a",
+    "2. YouTube/Grudge Informer Case/short/attachments/Grudge Informer 008.m4a",
+    "2. YouTube/Grudge Informer Case/short/attachments/Grudge Informer 007.m4a",
+    "2. YouTube/Grudge Informer Case/short/attachments/Grudge Informer 006.m4a",
+    "2. YouTube/Grudge Informer Case/short/attachments/Grudge Informer 005.m4a",
+    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 44.md",
+    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 43.md",
     "University/Syllabus/4. Communicative English.md",
     "University/-/Jurisprudence 2.md",
     "University/-/English.md",
-    "University/Syllabus",
-    "University/-",
-    "University",
     "-/small talk.md",
     "-/Translation.md",
     "-/Speaking.md",
-    "-/Phrases and proverbs.md",
-    "-/Listening.md",
-    "-/Communication Strategies.md",
-    "-/+/Fortnite Code.md",
-    "-/+",
-    "2. YouTube/Grudge Informer Case/short/Even Short Version.md",
-    "2. YouTube/Grudge Informer Case/short/Untitled.md",
-    "2. YouTube/Grudge Informer Case/short/with voice direction.md",
-    "2. YouTube/Grudge Informer Case/short/Untitled 1.md",
-    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 44.md",
-    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 43.md",
-    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 43.md",
-    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 42.md",
-    "x/Trash/chapter 4 v1.md",
-    "x/Trash/chapter 3 v2.md",
-    "x/Trash/chapter 3 v1.md",
-    "x/Trash/chapter 2 v2.md",
-    "x/Trash/chapter 2 v1.md",
-    "x/Trash/chapter 1 v2.md",
-    "x/Trash/chapter 1 v1.md",
-    "x/Trash",
-    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited",
-    "1. Reverend Half Insanity/1. Base Version/1. Raw",
-    "1. Reverend Half Insanity/1. Base Version",
-    "2. YouTube/Grudge Informer Case/short",
-    "2. YouTube/Grudge Informer Case/long",
     "University/x/Structure of a complex word.jpeg",
     "x/university/Screenshot_21-1-2025_135857_www.messenger.com.jpeg",
     "x/university/Screenshot_21-1-2025_135728_www.messenger.com.jpeg",
