@@ -1,0 +1,1 @@
+analysis the art and visual style of this video https://youtu.be/uPQcyookL0Y?si=x5a6UIdpBcqj1b5X and tell me which tools should I use to create this kinds of video and also include ai and non-ai tools.

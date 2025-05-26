@@ -13,12 +13,15 @@
                 "id": "b1f1ea35666d9dae",
                 "type": "leaf",
                 "state": {
-                  "type": "audio",
+                  "type": "markdown",
                   "state": {
-                    "file": "2. YouTube/Grudge Informer Case/short/Grudge Informer Case Edited.wav"
+                    "file": "2. YouTube/Grudge Informer Case/short/Grudge Informer Case.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": false
                   },
-                  "icon": "lucide-file-audio",
-                  "title": "Grudge Informer Case Edited"
+                  "icon": "lucide-file",
+                  "title": "Grudge Informer Case"
                 }
               }
             ]
@@ -180,7 +183,7 @@
         }
       },
       "active": "b1f1ea35666d9dae",
-      "mtime": "2025-05-23T20:05:13+06:00"
+      "mtime": "2025-05-26T16:58:35+06:00"
     },
     "Reverend Half Insanity": {
       "main": {
@@ -190,7 +193,7 @@
           {
             "id": "c7eefbf2320aee72",
             "type": "tabs",
-            "dimension": 59.72114639814098,
+            "dimension": 54.60883036405887,
             "children": [
               {
                 "id": "0c0907b68b3ff36b",
@@ -227,7 +230,7 @@
           {
             "id": "cd29d168707c607e",
             "type": "tabs",
-            "dimension": 40.27885360185902,
+            "dimension": 45.39116963594113,
             "children": [
               {
                 "id": "6a484c96e28272db",
@@ -235,12 +238,24 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://translate.google.com/?sl=bn&tl=en&text=%E0%A6%9B%E0%A6%BE%E0%A6%AA%20&op=translate",
+                    "url": "https://translate.google.com/?sl=en&tl=bn&op=translate",
                     "title": "Google Translate",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
                   "title": "Google Translate"
+                }
+              },
+              {
+                "id": "c6900899e053c28a",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.lightnovelworld.com/novel/reverend-insanity-172/chapter-4"
+                  },
+                  "icon": "lucide-file",
+                  "title": "Reverend Insanity - Chapter 4: Gu Yue Fang Yuan | Light Novel World"
                 }
               },
               {
@@ -417,7 +432,7 @@
         }
       },
       "active": "0c0907b68b3ff36b",
-      "mtime": "2025-05-24T00:53:19+06:00"
+      "mtime": "2025-05-26T16:58:37+06:00"
     }
   },
   "active": "Youtube"

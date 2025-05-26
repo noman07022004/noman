@@ -14,8 +14,8 @@ Her defense?
 
 “I was just following the law.”
 
-But the court discovered she had been having an affair—and had used the system to get rid of her husband.
+But the court discovered she had been having an affair—and used the system to get rid of her husband.
 
-The court declared her guilty, not for sending her husband to his death, but for abusing the law for personal gain.
+The court declared her guilty, not for sending her husband to his death, but for abusing the law.
 
 Do you agree with the court’s reasoning?

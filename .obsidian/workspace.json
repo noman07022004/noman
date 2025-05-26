@@ -11,12 +11,49 @@
             "id": "b1f1ea35666d9dae",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "markdown",
               "state": {
-                "file": "2. YouTube/Grudge Informer Case/short/Grudge Informer Case Edited.wav"
+                "file": "2. YouTube/Grudge Informer Case/short/Grudge Informer Case.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-audio",
-              "title": "Grudge Informer Case Edited"
+              "icon": "lucide-file",
+              "title": "Grudge Informer Case"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5b5cd6d7d7d43c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e0da98c314cd64",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://translate.google.com/?sl=en&tl=bn&text=confided&op=translate",
+                "title": "Google Translate",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Google Translate"
+            }
+          },
+          {
+            "id": "ae4a20418d9c22eb",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/c/68345540-2444-8004-8d4f-fdf309b579dd",
+                "title": "Nazi law abuse reasoning",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Nazi law abuse reasoning"
             }
           }
         ]
@@ -179,17 +216,20 @@
   },
   "active": "b1f1ea35666d9dae",
   "lastOpenFiles": [
+    "2. YouTube/Grudge Informer Case/short/Grudge Informer Case.md",
+    "2. YouTube/Grudge Informer Case/short/Untitled.md",
+    "2. YouTube/Grudge Informer Case/short/Untitled 1.md",
+    "2. YouTube/Grudge Informer Case/short/Untitled 2.md",
     "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 51.md",
     "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 50.md",
+    "2. YouTube/Grudge Informer Case/long/Grudge Informer Case.md",
+    "2. YouTube/Grudge Informer Case/short/Grudge Informer Case Edited.wav",
     "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 50.md",
     "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 49.md",
-    "2. YouTube/Grudge Informer Case/short/Grudge Informer Case Edited.wav",
     "2. YouTube/Grudge Informer Case/short/Grudge Informer Case.m4a",
-    "2. YouTube/Grudge Informer Case/short/Grudge Informer Case.md",
     "2. YouTube/Grudge Informer Case/short/Grudge Informer Case 20250523-172540.m4a.crdownload",
     "Untitled.md",
     "2. YouTube/Grudge Informer Case/short/Grudge Informer Case with audio.md",
-    "2. YouTube/Grudge Informer Case/long/Grudge Informer Case.md",
     "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 1.md",
     "x/Trash/chapter 4 v1.md",
     "x/Trash/chapter 16 v1.md",
@@ -205,9 +245,6 @@
     "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 49.md",
     "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 48.md",
     "1. Reverend Half Insanity/1. Base Version/1. Raw/Untitled 1.md",
-    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 48.md",
-    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 47.md",
-    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 47.md",
     "attachments/Recording 20250516172436.m4a",
     "attachments",
     "2. YouTube/Grudge Informer Case/short/attachments/Recording 20250516172419.m4a",

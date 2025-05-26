@@ -16,4 +16,3 @@ After everyone has finished their breakfast, Fang Yuan lies back on the bed, a p
 
 **"Yes,"** Fang Ma replies, her gaze soft as she looks at Fang Yuan. **"It's good of you both to come and check on him. Are you ready to go to the academy?"** Fang Zheng nods. **"Yes, we were just leaving. Won't Sianer and Yao Le be going today?"** Fang Ma explains, **"They wanted to stay with Fang Yuan since he just woke up."**
 
-Just then, Fang Yuan’s eyes flutter open, and he whispers, his voice faint and dry, **"Mmm… W-water…"** Shen Cui reacts instantly, grabbing a nearby mug, filling it with water, and handing it to Fang Ma. **"Thank you, Shen Cui,"** Fang Ma says gratefully. She gently helps Fang Yuan sit up slightly so he can drink more easily. But as Fang Yuan’s gaze falls upon Shen Cui, a flicker of a dark memory crosses his mind… the coldness… the indifference… _his_ coldness towards Shen Cui…

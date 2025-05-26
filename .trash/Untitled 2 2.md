@@ -2,7 +2,7 @@ A Nazi soldier returned home from the war on a short leave.
 
 Traumatized by its horrors, he found comfort in his wife’s presence.
 
-Feeling safe, he spoke out against Hitler.
+Feeling safe, he confided in her—he spoke out against Hitler.
 
 Later, his wife quietly reported him to the Nazis.
 
@@ -14,8 +14,7 @@ Her defense?
 
 “I was just following the law.”
 
-But the court discovered she had been having an affair—and had used the system to get rid of her husband.
+But the court discovered she had been having an affair—and used the system to get rid of her husband.
 
-The court declared her guilty, not for sending her husband to his death, but for abusing the law for personal gain.
+The court found her guilty—not for reporting him, but for abusing the law to serve her own ends.
 
-Do you agree with the court’s reasoning?
