@@ -1,0 +1,1 @@
+Imagine coming home alive to your beloved wife after surviving a deadly war. You finally feel safe in her embrace. Trusting her, you speak out against the brutal dictator—only to later find yourself sentenced to death. This is what happened to a Nazi soldier.

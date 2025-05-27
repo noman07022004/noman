@@ -1,21 +1,11 @@
-A Nazi soldier returned home from the war on a short leave.
+During World War II, a Nazi soldier came home on short leave. He was completely shattered by the horrors of the war. Feeling safe in his wife's embrace, he expressed his frustration with Hitler. She comforted him… then quietly reported him to the Nazis.
 
-Traumatized by its horrors, he found comfort in his wife’s presence.
+He was arrested and sentenced to death for his words.
 
-Feeling safe, he spoke out against Hitler.
+After the fall of the Nazi regime, the wife was put on trial. In her defense, she claimed she had done nothing wrong—she was simply following the law.
 
-Later, his wife quietly reported him to the Nazis.
+But the court uncovered more: while her husband was away at war, she had been having an affair—and used the system to get rid of him.
 
-He was arrested and sentenced to death.
-
-After the fall of the Nazi regime, his wife was put on trial.
-
-Her defense?
-
-“I was just following the law.”
-
-But the court discovered she had been having an affair—and had used the system to get rid of her husband.
-
-The court declared her guilty, not for sending her husband to his death, but for abusing the law for personal gain.
+The court declared her guilty—not for betraying her husband to his death, but for abusing the law for personal gain.
 
 Do you agree with the court’s reasoning?
