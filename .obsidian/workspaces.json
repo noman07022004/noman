@@ -6,25 +6,41 @@
         "type": "split",
         "children": [
           {
-            "id": "4d6d32e7b3a39cd0",
+            "id": "95040dbd5d42dedc",
             "type": "tabs",
             "children": [
               {
-                "id": "b1f1ea35666d9dae",
+                "id": "275f8062d8cbcd32",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2. YouTube/Grudge Informer Case/short/Grudge Informer Case.md",
+                    "file": "2. YouTube/4. Testing/2. stick figure/Script concept  generating prompt.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Script concept  generating prompt"
+                }
+              },
+              {
+                "id": "87e07c31b1d1d3d8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. YouTube/4. Testing/2. stick figure/Image generating Prompt generator.md",
                     "mode": "preview",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Grudge Informer Case"
+                  "title": "Image generating Prompt generator"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -91,7 +107,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 329.5
+        "width": 250.5
       },
       "right": {
         "id": "d80e5ebe8c1cb2d5",
@@ -172,6 +188,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "media-extended:Open media": false,
           "audio-recorder:Start/stop recording": false,
           "switcher:Open quick switcher": true,
           "graph:Open graph view": false,
@@ -182,8 +199,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "b1f1ea35666d9dae",
-      "mtime": "2025-05-26T16:58:35+06:00"
+      "active": "87e07c31b1d1d3d8",
+      "mtime": "2025-06-01T21:18:46+06:00"
     },
     "Reverend Half Insanity": {
       "main": {
@@ -196,36 +213,37 @@
             "dimension": 54.60883036405887,
             "children": [
               {
-                "id": "0c0907b68b3ff36b",
+                "id": "7f4a5c33cd17c131",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 51.md",
+                    "file": "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 53.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "chapter 51"
+                  "title": "chapter 53"
                 }
               },
               {
-                "id": "8efa20237cd5034b",
+                "id": "26daf8f9f8b42a13",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 50.md",
+                    "file": "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 52.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "chapter 50"
+                  "title": "chapter 52"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "cd29d168707c607e",
@@ -238,7 +256,7 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://translate.google.com/?sl=en&tl=bn&op=translate",
+                    "url": "https://translate.google.com/?sl=en&tl=bn&text=fatigue&op=translate",
                     "title": "Google Translate",
                     "mode": "webview"
                   },
@@ -247,15 +265,17 @@
                 }
               },
               {
-                "id": "c6900899e053c28a",
+                "id": "f299d45ec434010b",
                 "type": "leaf",
                 "state": {
-                  "type": "surfing-view",
+                  "type": "webviewer",
                   "state": {
-                    "url": "https://www.lightnovelworld.com/novel/reverend-insanity-172/chapter-4"
+                    "url": "https://readnovelfull.com/reverend-insanity/chapter-21-how-can-it-be-that-big-brother-got-number-one.html",
+                    "title": "Read Reverend Insanity Chapter 21: How can it be that big brother got number one? online for free - ReadNovelFull",
+                    "mode": "webview"
                   },
-                  "icon": "lucide-file",
-                  "title": "Reverend Insanity - Chapter 4: Gu Yue Fang Yuan | Light Novel World"
+                  "icon": "globe-2",
+                  "title": "Read Reverend Insanity Chapter 21: How can it be that big brother got number one? online for free - ReadNovelFull"
                 }
               },
               {
@@ -428,12 +448,442 @@
           "daily-notes:Open today's daily note": true,
           "templates:Insert template": true,
           "command-palette:Open command palette": true,
+          "workspaces:Manage workspace layouts": false,
+          "media-extended:Open media": false
+        }
+      },
+      "active": "26daf8f9f8b42a13",
+      "mtime": "2025-05-31T23:11:06+06:00"
+    },
+    "Books": {
+      "main": {
+        "id": "4171615f64dfe58c",
+        "type": "split",
+        "children": [
+          {
+            "id": "aeca56ac09920d01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aafd1c6ec06f64a2",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://reader.bookfusion.com/books/6099673-siblings-without-rivalry?type=epub_reflowable",
+                    "title": "Siblings Without Rivalry | BookFusion Reader",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Siblings Without Rivalry | BookFusion Reader"
+                }
+              },
+              {
+                "id": "b80d68648e180c4e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Books/1. Siblings Without Rivary/Siblings Without Rivalry.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Siblings Without Rivalry"
+                }
+              },
+              {
+                "id": "9667204b2ebafba0",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://translate.google.com/details?sl=en&tl=bn&text=discord&op=translate",
+                    "title": "Google Translate",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Google Translate"
+                }
+              },
+              {
+                "id": "5dfe974459044b2c",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://dictionary.cambridge.org/dictionary/english/rivalry",
+                    "title": "RIVALRY | English meaning - Cambridge Dictionary",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "RIVALRY | English meaning - Cambridge Dictionary"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b96f92048f885c3a",
+        "type": "split",
+        "children": [
+          {
+            "id": "23f335c53c0da340",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b06e1b7883a251e2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "1af36a0cb652439c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "cd6ae44c0a28dc3c",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "953fc3e868aaf9f7",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 250.5
+      },
+      "right": {
+        "id": "d80e5ebe8c1cb2d5",
+        "type": "split",
+        "children": [
+          {
+            "id": "4de7f240202ec300",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e31bd17677fb16fe",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "-/ragging.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for ragging"
+                }
+              },
+              {
+                "id": "39fab5c43a880373",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "-/ragging.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from ragging"
+                }
+              },
+              {
+                "id": "ba39c310827a1d0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "ded28afa330b2841",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "-/Rise of Bengali Nationalism - Bengal Partition 1905 (Part 2).md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Rise of Bengali Nationalism - Bengal Partition 1905 (Part 2)"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "media-extended:Open media": false,
+          "audio-recorder:Start/stop recording": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "0c0907b68b3ff36b",
-      "mtime": "2025-05-26T16:58:37+06:00"
+      "active": "aafd1c6ec06f64a2",
+      "mtime": "2025-06-01T21:18:59+06:00"
+    },
+    "Plan": {
+      "main": {
+        "id": "4171615f64dfe58c",
+        "type": "split",
+        "children": [
+          {
+            "id": "aeca56ac09920d01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "014e1680f92a8895",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. Plan/Streak Plan.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Streak Plan"
+                }
+              },
+              {
+                "id": "07ca745a3ba91750",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://chatgpt.com/c/683a2634-3330-8004-9c42-c5ac023d5674",
+                    "title": "Track Streaks Apps",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Track Streaks Apps"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b96f92048f885c3a",
+        "type": "split",
+        "children": [
+          {
+            "id": "23f335c53c0da340",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b06e1b7883a251e2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "1af36a0cb652439c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "cd6ae44c0a28dc3c",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "953fc3e868aaf9f7",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 250.5
+      },
+      "right": {
+        "id": "d80e5ebe8c1cb2d5",
+        "type": "split",
+        "children": [
+          {
+            "id": "4de7f240202ec300",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e31bd17677fb16fe",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "-/ragging.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for ragging"
+                }
+              },
+              {
+                "id": "39fab5c43a880373",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "-/ragging.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from ragging"
+                }
+              },
+              {
+                "id": "ba39c310827a1d0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "ded28afa330b2841",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "-/Rise of Bengali Nationalism - Bengal Partition 1905 (Part 2).md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Rise of Bengali Nationalism - Bengal Partition 1905 (Part 2)"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "media-extended:Open media": false,
+          "audio-recorder:Start/stop recording": false,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "07ca745a3ba91750",
+      "mtime": "2025-05-31T04:13:47+06:00"
     }
   },
-  "active": "Youtube"
+  "active": "Reverend Half Insanity"
 }
