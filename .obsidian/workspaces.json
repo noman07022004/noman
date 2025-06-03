@@ -6,41 +6,75 @@
         "type": "split",
         "children": [
           {
-            "id": "95040dbd5d42dedc",
+            "id": "35f02aa5b3cd7a45",
             "type": "tabs",
             "children": [
               {
-                "id": "275f8062d8cbcd32",
+                "id": "2115e0ec445ff83b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2. YouTube/4. Testing/2. stick figure/Script concept  generating prompt.md",
+                    "file": "2. YouTube/Picture With Deep Meaning/Prompt.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Script concept  generating prompt"
+                  "title": "Prompt"
                 }
-              },
+              }
+            ]
+          },
+          {
+            "id": "13fe23c8d9ce950c",
+            "type": "tabs",
+            "children": [
               {
-                "id": "87e07c31b1d1d3d8",
+                "id": "31f75c523478413c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2. YouTube/4. Testing/2. stick figure/Image generating Prompt generator.md",
+                    "file": "2. YouTube/Picture With Deep Meaning/Untitled 1.md",
                     "mode": "preview",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Image generating Prompt generator"
+                  "title": "Untitled 1"
+                }
+              },
+              {
+                "id": "5174f2fcccd37df9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. YouTube/Picture With Deep Meaning/Untitled.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Untitled"
+                }
+              },
+              {
+                "id": "48f47756f54b8e11",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://translate.google.com/?sl=en&tl=bn&text=adventurer&op=translate",
+                    "title": "Google Translate",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Google Translate"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -199,8 +233,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "87e07c31b1d1d3d8",
-      "mtime": "2025-06-01T21:18:46+06:00"
+      "active": "2115e0ec445ff83b",
+      "mtime": "2025-06-03T17:20:38+06:00"
     },
     "Reverend Half Insanity": {
       "main": {
@@ -213,37 +247,36 @@
             "dimension": 54.60883036405887,
             "children": [
               {
-                "id": "7f4a5c33cd17c131",
+                "id": "8f0e9299ecdb19ce",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 53.md",
+                    "file": "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 56.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "chapter 53"
+                  "title": "chapter 56"
                 }
               },
               {
-                "id": "26daf8f9f8b42a13",
+                "id": "38e80e68f3381ae4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 52.md",
+                    "file": "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 55.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "chapter 52"
+                  "title": "chapter 55"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "cd29d168707c607e",
@@ -256,7 +289,7 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://translate.google.com/?sl=en&tl=bn&text=fatigue&op=translate",
+                    "url": "https://translate.google.com/?sl=en&tl=bn&op=translate",
                     "title": "Google Translate",
                     "mode": "webview"
                   },
@@ -270,12 +303,12 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://readnovelfull.com/reverend-insanity/chapter-21-how-can-it-be-that-big-brother-got-number-one.html",
-                    "title": "Read Reverend Insanity Chapter 21: How can it be that big brother got number one? online for free - ReadNovelFull",
+                    "url": "https://readnovelfull.com/reverend-insanity/chapter-74-solving-the-mystery-with-knowledge-and-discovering-killing-intent.html",
+                    "title": "Read Reverend Insanity Chapter 74: Solving the mystery with knowledge and discovering killing intent online for free - ReadNovelFull",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Read Reverend Insanity Chapter 21: How can it be that big brother got number one? online for free - ReadNovelFull"
+                  "title": "Read Reverend Insanity Chapter 74: Solving the mystery with knowledge and discovering killing intent online for free - ReadNovelFull"
                 }
               },
               {
@@ -292,8 +325,7 @@
                   "title": "Interlocking fingers meaning"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -360,7 +392,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 201.5
+        "width": 245.5
       },
       "right": {
         "id": "d80e5ebe8c1cb2d5",
@@ -449,11 +481,11 @@
           "templates:Insert template": true,
           "command-palette:Open command palette": true,
           "workspaces:Manage workspace layouts": false,
-          "media-extended:Open media": false
+          "media-extended:Open media": true
         }
       },
-      "active": "26daf8f9f8b42a13",
-      "mtime": "2025-05-31T23:11:06+06:00"
+      "active": "8f0e9299ecdb19ce",
+      "mtime": "2025-06-03T21:18:55+06:00"
     },
     "Books": {
       "main": {
@@ -486,7 +518,7 @@
                   "state": {
                     "file": "4. Books/1. Siblings Without Rivary/Siblings Without Rivalry.md",
                     "mode": "source",
-                    "source": true,
+                    "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
@@ -499,7 +531,7 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://translate.google.com/details?sl=en&tl=bn&text=discord&op=translate",
+                    "url": "https://translate.google.com/details?sl=en&tl=bn&text=aggravate&op=translate",
                     "title": "Google Translate",
                     "mode": "webview"
                   },
@@ -681,7 +713,7 @@
         }
       },
       "active": "aafd1c6ec06f64a2",
-      "mtime": "2025-06-01T21:18:59+06:00"
+      "mtime": "2025-06-03T19:14:41+06:00"
     },
     "Plan": {
       "main": {
@@ -885,5 +917,5 @@
       "mtime": "2025-05-31T04:13:47+06:00"
     }
   },
-  "active": "Reverend Half Insanity"
+  "active": "Youtube"
 }

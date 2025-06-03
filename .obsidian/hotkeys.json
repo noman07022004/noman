@@ -8,15 +8,6 @@
     }
   ],
   "workspace:new-tab": [],
-  "app:reload": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "R"
-    }
-  ],
   "workspaces:save-and-load": [
     {
       "modifiers": [
@@ -48,5 +39,23 @@
       ],
       "key": "F"
     }
-  ]
+  ],
+  "app:reload": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "global-search:open": []
 }

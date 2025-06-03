@@ -14,4 +14,12 @@
 13. I remember once when I was around thirteen, we were dressing up to go to a family wedding. I thought I looked really nice. She stood next to me in the mirror and said, ‘I’m the GGG girl—Gorgeous, Glamorous, and Glorious.’ Then she looked at me and said, ‘You’re the SSS girl—‘Sweet, Simple, and Sincere.’ I’ve never forgotten it. To this day if anyone praises me, I think, ‘Yeah, yeah, but you should meet my sister.’
 14. The siblings get really together when there is serous problem with their parents.
 15. I observed my sons at home, while they are cleaning kitchen, they start arguing who's subject and majors are important. One is from Art and other is from Science. After sometime their arguing become even intense and both of them are giving their own argument to make other party accept their argument. At time they start talking about what other have done wrong to them in past and the argument become even more intense. After a few moment, the mode change again as they starts recalling their childhood funny memories. Now as I heard them from another room, I am surprised how relaxed I am right now and How happy I am feeling about their relationship. I know that the differences in interests and temperament that kept them from being close in childhood are still there. But I also know that over the years I had helped them build the bridges to span the separate islands of their identities. If they ever need to reach each other, they have many ways of getting there.
-16. 
+
+## TWO not till the bad feelings come out
+- "You are always with the baby." instead of replying, "No, I don't. Don't I just read you?" reply, "You don't like me spending so much time with her." In that way you acknowledge his negative feelings.
+- "I heard him laughing about me with his friends." instead of replying, "Boys are like that." says, "that hurt your feeling. You wise he would show some loyalty to her sister."
+- Instead of let them hit, tell them to say their anger out loud.
+- instead of letting them say anger with bad words, teach them to show anger better way.
+- Sometime you would know what is wrong but not what is right.
+- Just asks them how he would feel if his sister would do that to him. Don't force him to make any statement. if he thinks about it, this is enough. He don't have to answer to you except himself.
+- It is good to express you anger through writing or drawing.

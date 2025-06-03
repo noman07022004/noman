@@ -1,3 +1,0 @@
-Generate YouTube video concepts that highlight how effortless it is to conquer everyday challenges, centered on self-growth, mental focus, and actionable personal development strategies. Frame ideas as uncomplicated fixes to problems that feel overwhelming, using attention-grabbing titles starting with phrases like 'A is easier than you think, actually' or 'B is surprisingly simpler, here's why.' Target.
-
-A broad audience seeking productivity, confidence building, career advancement, academic success, social confidence, and beating procrastination. Maintain an uplifting, authentic tone with clear, bite-sized steps that viewers can implement immediately.

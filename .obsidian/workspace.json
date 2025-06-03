@@ -4,55 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "c7eefbf2320aee72",
+        "id": "35f02aa5b3cd7a45",
         "type": "tabs",
-        "dimension": 54.60883036405887,
         "children": [
           {
-            "id": "19dbb2cf5350c68c",
+            "id": "2115e0ec445ff83b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 54.md",
-                "mode": "source",
+                "file": "2. YouTube/Picture With Deep Meaning/Prompt.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "chapter 54"
-            }
-          },
-          {
-            "id": "a676cd4d1e9dc91b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 53.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "chapter 53"
+              "title": "Prompt"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "cd29d168707c607e",
+        "id": "13fe23c8d9ce950c",
         "type": "tabs",
-        "dimension": 45.39116963594113,
         "children": [
           {
-            "id": "6a484c96e28272db",
+            "id": "48f47756f54b8e11",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://translate.google.com/?sl=en&tl=bn&text=fork&op=translate",
+                "url": "https://translate.google.com/?sl=en&tl=bn&text=rudimentar&op=translate",
                 "title": "Google Translate",
                 "mode": "webview"
               },
@@ -61,34 +43,21 @@
             }
           },
           {
-            "id": "f299d45ec434010b",
+            "id": "a73a1e6794c938a9",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://readnovelfull.com/reverend-insanity/chapter-21-how-can-it-be-that-big-brother-got-number-one.html",
-                "title": "Read Reverend Insanity Chapter 21: How can it be that big brother got number one? online for free - ReadNovelFull",
+                "url": "https://chatgpt.com/c/683f4483-8c18-8004-9ef9-ff5ba940ed3d",
+                "title": "Short Story Writing Tips",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Read Reverend Insanity Chapter 21: How can it be that big brother got number one? online for free - ReadNovelFull"
-            }
-          },
-          {
-            "id": "d2fac6bb0eacdf23",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://chatgpt.com/c/6827d6ce-ab94-8004-b865-574adebf1099",
-                "title": "Interlocking fingers meaning",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Interlocking fingers meaning"
+              "title": "Short Story Writing Tips"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 250.5
   },
   "right": {
     "id": "d80e5ebe8c1cb2d5",
@@ -236,6 +205,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open media": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
@@ -243,57 +213,56 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "workspaces:Manage workspace layouts": false,
-      "media-extended:Open media": true
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a676cd4d1e9dc91b",
+  "active": "a73a1e6794c938a9",
   "lastOpenFiles": [
+    "2. YouTube/Picture With Deep Meaning/Prompt.md",
+    "2. YouTube/Picture With Deep Meaning/Untitled 1.md",
+    "2. YouTube/Picture With Deep Meaning/Untitled.md",
+    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 56.md",
+    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 55.md",
+    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 55.md",
+    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 54.md",
+    "4. Books/1. Siblings Without Rivary/Siblings Without Rivalry.md",
+    "2. YouTube/Testing/4/BLUE PROMPTS .pdf",
+    "2. YouTube/Triumph of Death/Triumph of Death.jpg",
+    "2. YouTube/Triumph of Death/Triumph of Death.jpg.crdownload",
+    "2. YouTube/Triumph of Death",
+    "2. YouTube/Testing/3/POV PROMPTS.pdf",
+    "2. YouTube/Testing/1/scene 4.jpg",
+    "2. YouTube/Testing/1/scene 1 video.mp4",
+    "2. YouTube/Testing/1/Music 1.mp3",
+    "2. YouTube/Testing/2. stick figure/Image generating Prompt generator.md",
     "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 54.md",
     "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 53.md",
+    "4. Books/1. Siblings Without Rivary/assets/1.jpg",
+    "4. Books/1. Siblings Without Rivary/assets",
+    "4. Books/1. Siblings Without Rivary/Siblings Without Rivalry.epub",
+    "4. Books/1/Siblings Without Rivalry.md",
+    "4. Books/1/Siblings Without Rivalry.epub",
+    "4. Books/1",
+    "2. YouTube/Testing/2. stick figure/Script concept  generating prompt.md",
     "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 53.md",
     "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 52.md",
-    "2. YouTube/4. Testing/2. stick figure/Image generating Prompt generator.md",
-    "4. Books/1. Siblings Without Rivary/Siblings Without Rivalry.md",
-    "2. YouTube/1. Grudge Informer Case/short/Recording.mp4",
-    "2. YouTube/4. Testing/2. stick figure/Audio.mp3",
-    "2. YouTube/4. Testing/2. stick figure/Script concept  generating prompt.md",
-    "2. YouTube/4. Testing/2. stick figure/concept getting prompt.md",
-    "2. YouTube/4. Testing/2/ElevenLabs_2025-06-01T07_06_28_Grandpa Spuds Oxley_pvc_sp100_s50_sb23_se0_q50_b_m2.mp3.crdownload",
-    "2. YouTube/4. Testing/1/ALL 3D ANIMATION PROMPTS USED”.pdf",
-    "2. YouTube/4. Testing/2. stick figure",
-    "2. YouTube/4. Testing/1",
-    "2. YouTube/4. Testing/1/Prompt for images.md",
-    "2. YouTube/4. Testing/1/Prompt for video.md",
-    "2. YouTube/4. Testing/1/This is Miles!.wav",
-    "2. YouTube/4. Testing/1/Sound Effects- witch-laughter-25288.mp3",
-    "2. YouTube/4. Testing/1/Sound Effects- heartbeat-01-brvhrtz-225058.mp3",
-    "2. YouTube/4. Testing/1/Sound effects- car-horns-153261.mp3",
-    "2. YouTube/4. Testing/1/Script.md",
-    "2. YouTube/4. Testing/1/scene 8.jpg",
-    "2. YouTube/4. Testing/1/scene 9.jpg",
-    "2. YouTube/4. Testing/1/scene 10.jpg",
-    "2. YouTube/4. Testing/1/scene 7.jpg",
-    "2. YouTube/4. Testing/1/scene 4.jpg",
-    "2. YouTube/4. Testing/1/scene 2.jpg",
-    "2. YouTube/4. Testing/1/scene 1.jpg",
-    "2. YouTube/4. Testing/1/scene 6.jpg",
-    "2. YouTube/4. Testing/1/scene 5.jpg",
-    "2. YouTube/4. Testing/1/scene 3.jpg",
+    "2. YouTube/Testing/2. stick figure/concept getting prompt.md",
+    "2. YouTube/Testing/1/Prompt for images.md",
+    "2. YouTube/Testing/1/Prompt for video.md",
+    "2. YouTube/Testing/1/Script.md",
+    "2. YouTube/Testing/1/scene 8.jpg",
+    "2. YouTube/Testing/1/scene 9.jpg",
+    "2. YouTube/Testing/1/scene 10.jpg",
+    "2. YouTube/Testing/1/scene 7.jpg",
+    "2. YouTube/Testing/1/scene 2.jpg",
+    "2. YouTube/Testing/1/scene 1.jpg",
+    "2. YouTube/Testing/1/scene 6.jpg",
     "2. YouTube/4. Testing/ALL 3D ANIMATION PROMPTS USED”.md",
     "2. YouTube/1. Grudge Informer Case/short/Grudge Informer Case.md",
     "2. YouTube/Testing/Untitled.md",
     "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 52.md",
     "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 51.md",
     "0. Plan/Streak Plan.md",
-    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 51.md",
-    "1. Reverend Half Insanity/1. Base Version/2. Ai Edited/chapter 50.md",
-    "2. YouTube/1. Grudge Informer Case/long/Grudge Informer Case.md",
-    "2. YouTube/1. Grudge Informer Case/short/VOICEOVER GUIDANCE.md",
-    "2. YouTube/1. Grudge Informer Case/short/🎙 Script with Explanations.md",
-    "2. YouTube/Grudge Informer Case/short/🎤 Script with Vocal Delivery Annotations.md",
-    "2. YouTube/Grudge Informer Case/short/Untitled 3.md",
-    "2. YouTube/Grudge Informer Case/short/Untitled 2.md",
-    "2. YouTube/Grudge Informer Case/short/Untitled 1.md"
+    "1. Reverend Half Insanity/1. Base Version/1. Raw/chapter 51.md"
   ]
 }
